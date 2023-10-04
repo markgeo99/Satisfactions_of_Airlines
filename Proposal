@@ -1,0 +1,54 @@
+Satisfactions of Airlines
+ 
+Introduction:
+This is a data talking about studying measures passenger satisfaction with airline like seat, Wi-Fi, foods, handling of checked baggage, inflight Entertainment and treatment of crew. it will help organization to focuses on measures which passenger satisfies and face other measures passenger doesn’t satisfy.
+
+Data Sources:
+Download and work on this data from KAGGLE
+https://www.kaggle.com/
+
+Data number of Columns and Rows:
+
+129880 Row
+23 Column
+
+Data Analysis Questions:
+1)	What is Description numbers of Flight Distance Compared of Satisfaction?
+2)	What is numbers of each Gender reserving each type of Class are Satisfied?
+3)	What is the Avg. Age reserving each type of Class and their Satisfactions?
+4)	What Customer Type are with each Class is Satisfied?
+5)	What number of each Gender is on each Customer Type are Satisfied?
+6)	What is the Type of Travel numbers with each Customer Type and their Satisfaction?
+7)	What is the Avg. Age is counted as Loyal Customer?
+8)	What is the Avg. Age is counted as disloyal Customer?
+9)	What is number of each Gender are Satisfied with Type of Travel?
+10)	What Age is Satisfied with each Type of Travel?
+11)	Which Gender by Age is Most Satisfied?
+12)	How much Customer Types are Satisfied?
+Description of Data Columns:
+1.	satisfaction: The overall satisfaction level of the customer. It is a categorical variable with options such as "satisfied" or "neutral or dissatisfied."
+2.	Gender: The gender of the customer.
+3.	Customer Type: Whether the customer is a "loyal customer" or a "disloyal customer."
+4.	Age: The age of the customer.
+5.	Type of Travel: The type of travel, such as "Personal Travel" or "Business travel."
+6.	Class: The class of travel, such as "Eco" or "Business."
+7.	Flight Distance: The distance of the flight.
+8.	Seat comfort: Customer rating of seat comfort.
+9.	Departure/Arrival time convenient: Customer rating of convenience of departure/arrival times.
+10.	Food and drink: Customer rating of food and drink quality.
+11.	Gate location: Customer rating of gate location.
+12.	Inflight wifi service: Customer rating of inflight Wi-Fi service.
+13.	Inflight entertainment: Customer rating of inflight entertainment options.
+14.	Online support: Customer rating of online customer support.
+15.	Ease of Online booking: Customer rating of ease of online booking.
+16.	On-board service: Customer rating of on-board service.
+17.	Leg room service: Customer rating of leg room service.
+18.	Baggage handling: Customer rating of baggage handling.
+19.	Check-in service: Customer rating of check-in service.
+20.	Cleanliness: Customer rating of cabin cleanliness.
+21.	Online boarding: Customer rating of online boarding process.
+22.	Departure Delay in Minutes: The delay in minutes for departure.
+23.	Arrival Delay in Minutes: The delay in minutes for arrival.
+
+
+
